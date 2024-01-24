@@ -1,5 +1,8 @@
 # API Development and Integration Guide
 
+![API](https://github.com/Matidza/API-s/assets/125007667/a692c294-7e2d-4af8-9261-bc8540c1e900)
+
+
 ## Overview
 
 Welcome to the API Development and Integration Guide! This README provides a comprehensive overview of API (Application Programming Interface) development and integration, focusing on the principles, tools, and best practices involved in creating and consuming APIs. Whether you're a beginner or looking to enhance your API skills, this guide aims to provide practical insights and projects to solidify your understanding.
